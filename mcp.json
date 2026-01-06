@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"my-mcp-server-f42b1c1a": {
+			"type": "stdio",
+			"command": "/home/codespace/.python/current/bin/uv",
+			"args": [
+				"run",
+				"--directory",
+				"/workspaces/mcp-tutorials/mcp-project",
+				"main.py"
+			]
+		}
+	},
+	"inputs": []
+}
